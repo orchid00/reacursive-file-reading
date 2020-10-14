@@ -1,5 +1,7 @@
-# reacursive-file-reading
+# recursive-file-reading
 
+
+## solving cloumn list
 Have a look at the folder reprex.
 You will find an R script (.R)
 and the view in markdown (.md)
